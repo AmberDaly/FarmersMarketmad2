@@ -9,11 +9,16 @@
         <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/activity_farmersmarket_list.xml" value="0.10344827586206896" />
         <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/activity_farmersmarket_maps.xml" value="0.18819655521783182" />
         <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/activity_map.xml" value="0.2140625" />
+        <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/activity_report.xml" value="0.1" />
         <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/card_farmersmarket.xml" value="0.2203125" />
         <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/content_farmersmarket_maps.xml" value="0.18819655521783182" />
         <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/farmers_market.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/fragment_farmer.xml" value="0.1" />
+        <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/fragment_report.xml" value="0.1" />
+        <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/layout/home.xml" value="0.1" />
         <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/menu/menu_main.xml" value="0.1" />
         <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/menu/menu_produce.xml" value="0.21875" />
+        <entry key="..\:/Users/amber/AndroidStudioProjects/FarmersMarket/app/src/main/res/menu/menu_report.xml" value="0.3296875" />
       </map>
     </option>
   </component>
